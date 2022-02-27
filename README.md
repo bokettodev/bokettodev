@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Raphael. I have been engaged in front-end development for more than
-5 years and I am ready to give your project what I have learned over the years.
+6 years and I am ready to give your project what I have learned over the years.
 
 If you have a project that you need to take to the next level or develop a new one
 from scratch using cutting-edge technologies but still well architectured (modular,
